@@ -6,4 +6,4 @@ This project is about a recipes website, only has 3 cuz doing more is more of le
 
 Anyways I'll have the finest recipes including shawerma, pizza and fried chicken, and will be uploading this on my git hub.
 
-source "chatgpt4"
+source "chatgpt3.5"
